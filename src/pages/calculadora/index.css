@@ -1,0 +1,33 @@
+.PagesCalculadora {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+
+}
+
+.PagesCalculadora--div {
+    text-align: left;
+    grid-column: 2/4;
+    grid-row: 2/3;
+  }
+  
+  .PagesCalculadora--div--input {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+  }
+
+  .PagesCalculadora--div--input input {
+    font-size: 1.5rem;
+    margin: 20px;
+    text-align: left;
+    padding: 10px 15px;
+    border: 3px solid black;
+  }
+  
+  .PagesCalculadora--div--resultado{
+   display: flex;
+   align-items: stretch;
+   justify-content: center;
+  }

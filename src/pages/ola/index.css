@@ -1,0 +1,23 @@
+.PagesOla {
+    font-size: 2rem;  
+    margin-left: 3rem;
+    color: #000;
+   
+}
+
+.PagesOla a{
+    text-decoration: none;
+    color: rgb(219, 6, 17);
+  }
+  
+  .PagesOla a:hover {
+    color: blue;
+  }
+  
+  .PagesOla a:hover {
+    color: rgb(0, 51, 80);
+  }
+  
+  .PagesOla a:active {
+    color: rgb(250, 8, 8);
+  }
